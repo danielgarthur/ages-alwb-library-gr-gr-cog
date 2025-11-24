@@ -420,7 +420,7 @@ meMA.Ode6C11.mode = miscellanea_gr_GR_cog.misc.Mode1
 meMA.Ode6C11.greekmelody = he.h.m1_gr_GR_cog.heHE.AlionPontogenes.greekname
 meMA.Ode6C11.melody = he.h.m1_gr_GR_cog.heHE.AlionPontogenes.name
 meMA.Ode6C11.incipit = "Νέμει σοι τὰ ὑπὲρ φύσιν…"
-meMA.Ode6C11.text = "Νέμει σοι τὰ ὑπὲρ φύσιν, Ἄναξ ὁ πάντων Θεός· ἐν γὰρ τῷ τίκτειν, Παρθένον ὥσπερ ἐφu/λαξεν, οὕτως ἐν τάφῳ τὸ σῶμα διετήρησεν, ἀδιάφθορον, καὶ συνεδόξασε, θείᾳ μεταστάσει, γέρα σοι ὥσπερ Υἱὸς Μητρὶ χαριζόμενος."
+meMA.Ode6C11.text = "Νέμει σοι τὰ ὑπὲρ φύσιν, Ἄναξ ὁ πάντων Θεός· ἐν γὰρ τῷ τίκτειν, Παρθένον ὥσπερ ἐφύλαξεν, οὕτως ἐν τάφῳ τὸ σῶμα διετήρησεν, ἀδιάφθορον, καὶ συνεδόξασε, θείᾳ μεταστάσει, γέρα σοι ὥσπερ Υἱὸς Μητρὶ χαριζόμενος."
 
 meMA.Ode6C12.ode = miscellanea_gr_GR_cog.misc.Ode6
 meMA.Ode6C12.mode = miscellanea_gr_GR_cog.misc.Mode1

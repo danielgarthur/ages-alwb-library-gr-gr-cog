@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = sy.m08.d21_gr_GR_cog
 
-syMA.commemoration01.text = "Τῇ ΚAʹ τοῦ αὐτου μηνὸς μνήμη τοῦ ἁγίου Ἀποστόλου Θαδδαίου."
+syMA.commemoration01.text = "Τῇ ΚΑʹ τοῦ αὐτου μηνὸς μνήμη τοῦ ἁγίου Ἀποστόλου Θαδδαίου."
 syMA.commemoration01.couplet1.title = titles_gr_GR_cog.ti.Verses
 syMA.commemoration01.couplet1.verse1 = "Θαδδαῖε! ποῖον ἄλλο σοι πλέξω στέφος,"
 syMA.commemoration01.couplet1.verse2 = "Ἢ αὐτόπτην λέγειν σε καὶ μύστην Λόγου;"

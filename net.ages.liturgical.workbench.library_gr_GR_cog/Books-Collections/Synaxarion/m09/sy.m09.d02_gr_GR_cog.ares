@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = sy.m09.d02_gr_GR_cog
 
-syMA.commemoration01.text = "Τῇ Bʹ τοῦ αὐτοῦ μηνός μνήμη τοῦ ἁγίου Μάρτυρος Μάμαντος."
+syMA.commemoration01.text = "Τῇ Βʹ τοῦ αὐτοῦ μηνός μνήμη τοῦ ἁγίου Μάρτυρος Μάμαντος."
 syMA.commemoration01.couplet1.title = titles_gr_GR_cog.ti.Verses
 syMA.commemoration01.couplet1.verse1 = "Ἀκμαῖος ὢν Τριάδος εἰς πίστιν Μάμας,"
 syMA.commemoration01.couplet1.verse2 = "Ἀκμαῖς τριαίνης καρτερεῖ τετρωμένος."
